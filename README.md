@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **NEXTJS DJANGO**
 
-- 👨‍💻 All of my projects are available at [currently working will be live in no time](currently working will be live in no time)
+- 👨‍💻 All of my projects are available on [GitHub](https://github.com/Aryan-AAP). You can also find my portfolio website at [www.yourportfoliowebsite.com](https://aryan-aap.github.io/).
 
-- 📝 I regularly write articles on [currently working will be live in no time](currently working will be live in no time)
+- 📝 I regularly write articles on [Notebook]
 
 - 💬 Ask me about **React Nextjs Gsap Typescript MongoDb Mysql ,list goes on**
 
