@@ -5,15 +5,15 @@
 
 - 🌱 I’m currently learning **NEXTJS DJANGO**
 
-- 👨‍💻 All of my projects are available on [GitHub](https://github.com/Aryan-AAP). You can also find my portfolio website at [www.yourportfoliowebsite.com](https://aryan-aap.github.io/).
+- 👨‍💻 All of my projects are available on [GitHub](https://github.com/Aryan-AAP). You can also cheak my portfolio website [Click here](https://aryan-aap.github.io/).
 
-- 📝 I regularly write articles on [Notebook]
+- 📝 I regularly write articles on [Notebook] i wll start writhing professionally but for now you can get my resent updates from [Twitter](https://twitter.com/aryan83202)
 
 - 💬 Ask me about **React Nextjs Gsap Typescript MongoDb Mysql ,list goes on**
 
 - 📫 How to reach me **pardeshiaryanon@gmail.com**
 
-- 📄 Know about my experiences [currently working will be live in no time](currently working will be live in no time)
+- 📄 Know about my experiences [Resume is work in progess]
 
 - ⚡ Fun fact **Currently Studying in Mumbai University**
 
