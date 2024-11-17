@@ -31,11 +31,11 @@
 ---
 
 ### 📊 **Stats**
-[![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aryan-Pardeshi&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-Pardeshi&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
+[![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=pardeshiaryan&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pardeshiaryan&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
 
 ---
 
 ### 🏗️ **Projects**
-- 🔨 **[Daily Tech Explorer](#daily-tech-explorer)**: Small projects demonstrating real-world tech usage.
-- 🚀 **AI Collaboration Tool**: A future-ready real-time platform.  
+- 🔨 **[Daily Tech Explorer](https://github.com/pardeshiaryan/Daily-Tech-Explore)**: Small projects demonstrating real-world tech usage.
+- 🚀 **APPMART**: Not an normal Ecommerce app 
