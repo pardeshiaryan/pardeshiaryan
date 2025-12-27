@@ -30,8 +30,8 @@
 ---
 
 ### 🌐 **Connect with Me**  
-- 🐦 **Twitter**: [\_aryanaap](https://x.com/_aryanaap)  
-- 🧑‍💻 **LeetCode**: [Aryan-AAP](https://leetcode.com/u/Aryan-AAP/)  
+
+- 🧑‍💻 **LeetCode**: [Aryan-AAP](https://leetcode.com/u/pardeshiaryan/)  
 - 📫 **Email**: [pardeshiaryanon@gmail.com](mailto:pardeshiaryanon@gmail.com)  
 
 ---
@@ -39,13 +39,3 @@
 ### 📊 **Stats**  
 [![Aryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pardeshiaryan&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pardeshiaryan&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
-
----
-
-### 🏗️ **Projects**  
-- 🔨 **[Daily Tech Explorer](https://github.com/pardeshiaryan/Daily-Tech-Explore)**:  
-  Bite-sized projects showcasing practical tech use cases.  
-- 🚀 **APPMART**:  
-  A **next-gen ecommerce app** redefining the online shopping experience.  
-
----
